@@ -1,3 +1,7 @@
+My first programming challenge at the start of my time in my university. Made in 2018 but uploaded on github in 2021. 
+
+Follow these steps to run:
+
 -Open Project Submission file.
 
 -Download Asteroids Project.zip file and unzip it.
